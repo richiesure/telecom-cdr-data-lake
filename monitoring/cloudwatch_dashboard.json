@@ -1,0 +1,11 @@
+{
+  "widgets": [
+    {
+      "type": "metric",
+      "properties": {
+        "metrics": [["AWS/Glue", "glue.driver.aggregate.numSucceededTasks"]],
+        "title": "Glue Job Success"
+      }
+    }
+  ]
+}

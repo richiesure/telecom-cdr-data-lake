@@ -1,0 +1,7 @@
+{
+  "Name": "telecom-cdr-etl",
+  "Role": "arn:aws:iam::YOUR_ACCOUNT_ID:role/GlueRole",
+  "GlueVersion": "4.0",
+  "WorkerType": "G.1X",
+  "NumberOfWorkers": 2
+}
